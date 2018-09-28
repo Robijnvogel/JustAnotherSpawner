@@ -9,3 +9,8 @@
 gradle.properties
 CHANGELOG.md
 CHANGELOG_MOST_RECENT.md
+.idea/
+JustAnotherSpawner.iml
+JustAnotherSpawner.ipr
+JustAnotherSpawner.iws
+out/
